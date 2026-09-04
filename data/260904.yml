@@ -7,7 +7,7 @@ about:
   head: c3c2256
   archived: false
   latestVersion: v0.7.3
-  collectedAt: 2026-09-04T19:54:24Z
+  collectedAt: 2026-09-04T20:52:47Z
 timeline:
   created: 2023-03-02
   lastCommit: 2026-04-10
@@ -80,5 +80,28 @@ total:
   openIssue: 1
   commit: 54
 ---
+path: /home/runner/.x-repo/github.com/edmocosta/tuistash
+collectedAt: 2026-09-04T20:52:48Z
+loc:
+  Rust:
+    code: 5965
+    comments: 23
+    blanks: 898
+    files: 43
+  Toml:
+    code: 30
+    comments: 0
+    blanks: 2
+    files: 1
+  Markdown:
+    code: 0
+    comments: 95
+    blanks: 35
+    files: 2
+total:
+  code: 6031
+  comments: 125
+  blanks: 942
+  files: 46
 ---
 
