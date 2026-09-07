@@ -5,7 +5,7 @@ about:
   head: c3c2256
   archived: false
   latestVersion: "v0.7.3"
-  collectedAt: 2026-09-07T05:27:16Z
+  collectedAt: 2026-09-07T19:02:51Z
 timeline:
   created: 2023-03-02
   lastCommit: 2026-04-10
@@ -79,7 +79,7 @@ total:
   commit: 54
 ---
 path: /home/runner/.x-repo/github.com/edmocosta/tuistash
-collectedAt: 2026-09-07T05:27:17Z
+collectedAt: 2026-09-07T19:02:52Z
 loc:
   Rust:
     code: 5965
@@ -105,7 +105,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:27:17+00:00
+  collectedAt: 2026-09-07T19:02:54+00:00
   platform:
     darwin/arm64:
       name:  tuistash-v0.7.3-aarch64-apple-darwin.zip
