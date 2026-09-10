@@ -4,13 +4,23 @@
 
 A Terminal User Interface for Logstash 🪵
 
-![tuistash](https://repo.x-cmd.io/tuistash.svg)
+![tuistash](https://repo.x-cmd.io/tuistash.svg?lang=zh)
 
 ## 安装
 
 ```sh
 x install tuistash
 ```
+
+## 代码规模
+
+合计: **5,995** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
+
+| 语言 | 代码 | 注释 | 空行 | 文件数 |
+|------|-----:|-----:|-----:|------:|
+| Rust | 5,965 | 23 | 898 | 43 |
+| Toml | 30 | 0 | 2 | 1 |
+| Markdown | 0 | 95 | 35 | 2 |
 
 ## 源代码
 
@@ -22,7 +32,6 @@ x install tuistash
 - **最新版本**: `v0.7.3` (2026-04-10)
 - **最近提交**: 2026-04-10
 - **Release 含资产**: 14 个
-- **发布时间**: 2026-04-10T17:30:05Z
 
 ## 流行度
 
@@ -37,18 +46,38 @@ x install tuistash
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 0 | 0 | 0 | 0 | 0 |
 | 90d | 2026-06-12 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-14 | 1 | 1 | 0 | 0 | 0 | 1 |
 | 360d | 2025-09-15 | 2 | 2 | 0 | 0 | 0 | 2 |
+| last720d | 2024-09-20 | 6 | 8 | 1 | 0 | 1 | 13 |
 
-## 代码规模
+## Release 资产
 
-合计: **5,995** 行代码（覆盖前 5 种语言、共 **46** 个文件）。
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [tuistash-v0.7.3-aarch64-apple-darwin.zip](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-aarch64-apple-darwin.zip) | 2.6 MiB | `native/darwin/arm64` |
+| [tuistash-v0.7.3-aarch64-apple-darwin.zip.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-aarch64-apple-darwin.zip.sha256) | 107 B | `native/darwin/arm64` |
+| [tuistash-v0.7.3-aarch64-unknown-linux-musl.tar.gz](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-aarch64-unknown-linux-musl.tar.gz) | 2.9 MiB | `native/linux/arm64/musl` |
+| [tuistash-v0.7.3-aarch64-unknown-linux-musl.tar.gz.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-aarch64-unknown-linux-musl.tar.gz.sha256) | 116 B | `native/linux/arm64/musl` |
+| [tuistash-v0.7.3-arm-unknown-linux-musleabihf.tar.gz](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-arm-unknown-linux-musleabihf.tar.gz) | 2.8 MiB | `native/linux/arm/musl` |
+| [tuistash-v0.7.3-arm-unknown-linux-musleabihf.tar.gz.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-arm-unknown-linux-musleabihf.tar.gz.sha256) | 118 B | `native/linux/arm/musl` |
+| [tuistash-v0.7.3-loongarch64-unknown-linux-gnu.tar.gz](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-loongarch64-unknown-linux-gnu.tar.gz) | 2.7 MiB | `native/unknown` |
+| [tuistash-v0.7.3-loongarch64-unknown-linux-gnu.tar.gz.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-loongarch64-unknown-linux-gnu.tar.gz.sha256) | 119 B | `other` |
+| [tuistash-v0.7.3-x86_64-apple-darwin.zip](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-apple-darwin.zip) | 2.8 MiB | `native/darwin/x64` |
+| [tuistash-v0.7.3-x86_64-apple-darwin.zip.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-apple-darwin.zip.sha256) | 106 B | `native/darwin/x64` |
+| [tuistash-v0.7.3-x86_64-pc-windows-msvc.zip](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-pc-windows-msvc.zip) | 2.3 MiB | `native/win/x64` |
+| [tuistash-v0.7.3-x86_64-pc-windows-msvc.zip.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-pc-windows-msvc.zip.sha256) | 109 B | `native/win/x64` |
+| [tuistash-v0.7.3-x86_64-unknown-linux-musl.tar.gz](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-unknown-linux-musl.tar.gz) | 3.0 MiB | `native/linux/x64/musl` |
+| [tuistash-v0.7.3-x86_64-unknown-linux-musl.tar.gz.sha256](https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-unknown-linux-musl.tar.gz.sha256) | 115 B | `native/linux/x64/musl` |
 
-| 语言 | 代码 | 注释 | 空行 | 文件数 |
-|------|-----:|-----:|-----:|------:|
-| Rust | 5,965 | 23 | 898 | 43 |
-| Toml | 30 | 0 | 2 | 1 |
-| Markdown | 0 | 95 | 35 | 2 |
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/tuistash) 上共有 **5** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**3** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Nix unstable | `0.7.3` | ✅ latest |
 
 ## 改进这些数据
 
@@ -59,4 +88,4 @@ tuistash 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:48:23Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T21:23:12Z._
