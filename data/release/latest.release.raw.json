@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 2997839,
       "digest": "sha256:f21416f05bd60247575f32af496b1f9e63ebf3e9a48154c3d5ec27e06f4284e7",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-04-10T17:32:13Z",
       "updated_at": "2026-04-10T17:32:14Z",
       "browser_download_url": "https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-aarch64-unknown-linux-musl.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3177212,
       "digest": "sha256:f3999288dff8df0cfb9246af3f286946c74e27debfa9aefb92bc5e7b9776b99e",
-      "download_count": 150,
+      "download_count": 151,
       "created_at": "2026-04-10T17:32:25Z",
       "updated_at": "2026-04-10T17:32:25Z",
       "browser_download_url": "https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-unknown-linux-musl.tar.gz"
