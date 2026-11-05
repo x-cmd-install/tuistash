@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 2909686,
       "digest": "sha256:dd0cd2d56a61176e604a828862bc91926ae4be705fb25c9ec463ee096da2866a",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-04-10T17:31:12Z",
       "updated_at": "2026-04-10T17:31:13Z",
       "browser_download_url": "https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-apple-darwin.zip"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 3177212,
       "digest": "sha256:f3999288dff8df0cfb9246af3f286946c74e27debfa9aefb92bc5e7b9776b99e",
-      "download_count": 178,
+      "download_count": 179,
       "created_at": "2026-04-10T17:32:25Z",
       "updated_at": "2026-04-10T17:32:25Z",
       "browser_download_url": "https://github.com/edmocosta/tuistash/releases/download/v0.7.3/tuistash-v0.7.3-x86_64-unknown-linux-musl.tar.gz"
