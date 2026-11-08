@@ -1,0 +1,56 @@
+- repo: aur
+  srcname: tuistash
+  binname: tuistash
+  visiblename: tuistash
+  version: 0.7.1
+  origversion: 0.7.1-1
+  status: outdated
+  summary: A terminal user interface for Logstash
+  maintainers:
+    - fallback-mnt-aur@repology
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_05
+  srcname: tuistash
+  visiblename: tuistash
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Terminal User Interface for Logstash
+  maintainers:
+    - kristoffer.pbs@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_25_11
+  srcname: tuistash
+  visiblename: tuistash
+  version: 0.7.1
+  origversion: null
+  status: outdated
+  summary: Terminal User Interface for Logstash
+  maintainers:
+    - kristoffer.pbs@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_stable_26_05
+  srcname: tuistash
+  visiblename: tuistash
+  version: 0.7.3
+  origversion: null
+  status: newest
+  summary: Terminal User Interface for Logstash
+  maintainers:
+    - kristoffer.pbs@gmail.com
+  licenses:
+    - Apache-2.0
+- repo: nix_unstable
+  srcname: tuistash
+  visiblename: tuistash
+  version: 0.7.3
+  origversion: null
+  status: newest
+  summary: Terminal User Interface for Logstash
+  maintainers:
+    - kristoffer.pbs@gmail.com
+  licenses:
+    - Apache-2.0
