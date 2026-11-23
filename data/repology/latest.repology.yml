@@ -10,6 +10,18 @@
     - fallback-mnt-aur@repology
   licenses:
     - Apache-2.0
+- repo: aur
+  srcname: tuistash-bin
+  binname: tuistash-bin
+  visiblename: tuistash-bin
+  version: 0.7.3
+  origversion: 0.7.3-1
+  status: newest
+  summary: A TUI for monitoring Logstash
+  maintainers:
+    - ahp@aur
+  licenses:
+    - Apache-2.0
 - repo: nix_stable_25_05
   srcname: tuistash
   visiblename: tuistash
